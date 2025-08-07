@@ -108,7 +108,6 @@ malimg-cnn-pytorch
 │
 ├── HW7_1.ipynb           # Main notebook with CNN implementation and training
 ├── README.md             # Project documentation
-├── requirements.txt      # Dependencies (optional)
 └── malimg_dataset/       # Folder containing images (organized by class)
 ```
 
